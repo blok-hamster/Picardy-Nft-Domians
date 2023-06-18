@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@chainlink/contracts": "^0.5.1",
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "@nomiclabs/hardhat-etherscan": "^3.1.0",
+    "@openzeppelin/contracts": "^4.7.3",
+    "@openzeppelin/contracts-upgradeable": "^4.8.0",
+    "base64-sol": "^1.1.0",
+    "dotenv": "^16.0.2",
+    "ethers": "^5.7.2",
+    "hardhat-contract-sizer": "^2.6.1",
+    "hardhat-gas-reporter": "^1.0.9",
+    "chai": "^4.3.7",
+    "chai-as-promised": "^7.1.1"
+  },
+  "name": "hardhat_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@nomiclabs/hardhat-etherscan": "^3.1.0",
+    "@openzeppelin/hardhat-upgrades": "^1.21.0",
+    "hardhat": "^2.11.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
